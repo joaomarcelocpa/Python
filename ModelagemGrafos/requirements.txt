@@ -1,0 +1,25 @@
+# Core dependencies
+requests>=2.31.0
+pandas>=2.1.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Data export
+openpyxl>=3.1.2
+
+# GUI
+customtkinter>=5.2.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Progress bars
+tqdm>=4.66.0
+
+# Testing (optional)
+pytest>=7.4.0
+
+# Code quality (optional)
+black>=23.0.0
+flake8>=6.1.0

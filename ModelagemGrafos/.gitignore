@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.env.example
+.env*/
+.venv/
+venv/
+env/
+env.*/
+pythonenv*/
+pip-wheel-metadata/
+pip-wheel-*/
+pip-selfcheck.json
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Test / coverage reports
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.hypothesis/
+
+# Type checkers
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Local data and generated outputs
+data/raw/
+data/processed/
+output/
+data/
+
+# System files
+.DS_Store
+.claude
+Thumbs.db
+
+

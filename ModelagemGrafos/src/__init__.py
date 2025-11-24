@@ -1,0 +1,3 @@
+"""
+Source package do projeto.
+"""
